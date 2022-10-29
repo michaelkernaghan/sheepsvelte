@@ -4,6 +4,9 @@ A game about sheep using Typescript and Svelte. This is a demo design of the gam
 Built following instructions at:
   
   1. [Svelte's Make an App Tutorial](https://svelte.dev/tutorial/making-an-app)
+  https://www.devsamples.com/javascript/svelte/deploy-svelte-app-gh-pages
+  https://jiafulow.github.io/blog/2020/07/09/create-gh-pages-branch-in-existing-repo/
+  https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
 ## Run the game
 
